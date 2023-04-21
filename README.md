@@ -19,7 +19,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 ## Instalação
 
-Instale this project with npm
+Instal this project with npm
 
 ```bash
   - npm install
