@@ -2,7 +2,7 @@
 
 # Dt-money
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Organize your financial inflows and outflows with this application.
 
 ## Documentação de cores
 
