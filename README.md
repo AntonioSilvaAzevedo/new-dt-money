@@ -13,7 +13,7 @@ Organize your financial inflows and outflows with this application.
 
 ## Stack utilizada
 
-**Front-end:** Vite, React, Styled-components, Radix-ui, phosphor-react
+**Front-end:** Vite, React, Styled-components, Radix-ui, phosphor-react, JSON-server
 
 **Back-end:** -
 
