@@ -13,7 +13,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 ## Stack utilizada
 
-**Front-end:** Vite, React, Styled-components
+**Front-end:** Vite, React, Styled-components, Radix-ui, phosphor-react
 
 **Back-end:** -
 
