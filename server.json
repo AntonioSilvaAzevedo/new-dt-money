@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Deposito",
       "type": "income",
       "category": "Venda",
       "price": 11000,
@@ -13,6 +13,14 @@
       "description": "Burguês king",
       "type": "outcome",
       "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-04-22T20:18:20.721Z"
+    },
+    {
+      "id": 2,
+      "description": "Breja king",
+      "type": "outcome",
+      "category": "Cervejada",
       "price": 50,
       "createdAt": "2023-04-22T20:18:20.721Z"
     }
