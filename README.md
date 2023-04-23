@@ -24,6 +24,7 @@ Instal this project with npm
 ```bash
   - npm install
   - npm run dev
+  - npm run dev:server
 ```
 
 ## Autores
