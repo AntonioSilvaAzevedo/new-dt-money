@@ -23,6 +23,14 @@
       "category": "Cervejada",
       "price": 50,
       "createdAt": "2023-04-22T20:18:20.721Z"
+    },
+    {
+      "description": "Mc kinkg",
+      "price": 50,
+      "type": "outcome",
+      "category": "lanches",
+      "createdAt": "2023-04-25T01:19:34.003Z",
+      "id": 3
     }
   ]
 }
